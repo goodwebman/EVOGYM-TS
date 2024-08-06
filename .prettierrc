@@ -1,0 +1,7 @@
+{
+  "importOrder": ["no-unused"],
+  "jsxImportSort": {
+    "order": ["absolute", "relative", "library"]
+  },
+  "trailingComma": "all"
+}
